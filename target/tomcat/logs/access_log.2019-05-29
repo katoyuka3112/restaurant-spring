@@ -1,0 +1,8 @@
+0:0:0:0:0:0:0:1 - - [29/May/2019:22:41:55 +0900] "GET /restaurant-spring/calculator HTTP/1.1" 200 427 http-bio-8080-exec-1 858
+0:0:0:0:0:0:0:1 - - [29/May/2019:22:42:01 +0900] "GET /restaurant-spring/calculator HTTP/1.1" 200 427 http-bio-8080-exec-3 4
+0:0:0:0:0:0:0:1 - - [29/May/2019:22:42:08 +0900] "POST /restaurant-spring/calculator HTTP/1.1" 200 427 http-bio-8080-exec-4 47
+0:0:0:0:0:0:0:1 - - [29/May/2019:22:42:09 +0900] "POST /restaurant-spring/calculator HTTP/1.1" 200 427 http-bio-8080-exec-6 3
+0:0:0:0:0:0:0:1 - - [29/May/2019:22:42:10 +0900] "POST /restaurant-spring/calculator HTTP/1.1" 200 427 http-bio-8080-exec-7 3
+0:0:0:0:0:0:0:1 - - [29/May/2019:22:43:38 +0900] "POST /restaurant-spring/calculator HTTP/1.1" 500 4421 http-bio-8080-exec-1 282
+0:0:0:0:0:0:0:1 - - [29/May/2019:22:43:53 +0900] "POST /restaurant-spring/calculator HTTP/1.1" 200 424 http-bio-8080-exec-3 68
+0:0:0:0:0:0:0:1 - - [29/May/2019:22:55:45 +0900] "POST /restaurant-spring/calculator HTTP/1.1" 200 424 http-bio-8080-exec-1 178
